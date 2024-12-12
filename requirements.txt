@@ -1,0 +1,6 @@
+aiohttp
+tqdm
+watchdog
+instaloader
+TikTokApi
+python-dotenv
